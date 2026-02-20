@@ -9,18 +9,8 @@ Estudiante de primer año del Ciclo Formativo Superior en Desarrollo de Aplicaci
   <img align="center" alt="Alfonso-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
-<br>
+##
 
-<div align="center">
-  <a href="https://github.com/Clikkkk">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Clikkkk&show_icons=true&theme=radical&include_all_commits=true"/>
-  </a>
-  <a href="https://github.com/Clikkkk">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clikkkk&layout=compact&theme=radical&langs_count=6"/>
-  </a>
-</div>
-
-<br>
 
 <div> 
   <a href="mailto:aibanezcollderram@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
